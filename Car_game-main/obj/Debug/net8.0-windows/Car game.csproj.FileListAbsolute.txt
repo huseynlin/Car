@@ -1,0 +1,48 @@
+C:\Users\Nicat\Desktop\Car game\bin\Debug\net8.0-windows\Car game.exe
+C:\Users\Nicat\Desktop\Car game\bin\Debug\net8.0-windows\Car game.deps.json
+C:\Users\Nicat\Desktop\Car game\bin\Debug\net8.0-windows\Car game.runtimeconfig.json
+C:\Users\Nicat\Desktop\Car game\bin\Debug\net8.0-windows\Car game.dll
+C:\Users\Nicat\Desktop\Car game\bin\Debug\net8.0-windows\Car game.pdb
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car_game.Form1.resources
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.csproj.GenerateResource.cache
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.dll
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\refint\Car game.dll
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.pdb
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\Car game.genruntimeconfig.cache
+C:\Users\Nicat\Desktop\Car game\obj\Debug\net8.0-windows\ref\Car game.dll
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car_game.Form1.resources
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.csproj.GenerateResource.cache
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.dll
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\refint\Car game.dll
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.pdb
+C:\Users\Nicat\Desktop\C#\Car game\bin\Debug\net8.0-windows\Car game.exe
+C:\Users\Nicat\Desktop\C#\Car game\bin\Debug\net8.0-windows\Car game.deps.json
+C:\Users\Nicat\Desktop\C#\Car game\bin\Debug\net8.0-windows\Car game.runtimeconfig.json
+C:\Users\Nicat\Desktop\C#\Car game\bin\Debug\net8.0-windows\Car game.dll
+C:\Users\Nicat\Desktop\C#\Car game\bin\Debug\net8.0-windows\Car game.pdb
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\Car game.genruntimeconfig.cache
+C:\Users\Nicat\Desktop\C#\Car game\obj\Debug\net8.0-windows\ref\Car game.dll
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\bin\Debug\net8.0-windows\Car game.exe
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\bin\Debug\net8.0-windows\Car game.deps.json
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\bin\Debug\net8.0-windows\Car game.runtimeconfig.json
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\bin\Debug\net8.0-windows\Car game.dll
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\bin\Debug\net8.0-windows\Car game.pdb
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car_game.Form1.resources
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.csproj.GenerateResource.cache
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.AssemblyInfoInputs.cache
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.AssemblyInfo.cs
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.csproj.CoreCompileInputs.cache
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.dll
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\refint\Car game.dll
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.pdb
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\Car game.genruntimeconfig.cache
+C:\Users\nural\Downloads\C# code\Car_game-main nicat\Car_game-main\obj\Debug\net8.0-windows\ref\Car game.dll
